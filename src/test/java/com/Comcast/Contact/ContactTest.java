@@ -13,6 +13,7 @@ public class ContactTest {
 	public void modifyContact() {
 		System.out.println("contact is modified");
 	}
+	//AUTOMATION ENGG 1
 	@Test(groups="regressionTest")
 	public void deleteContact() {
 		System.out.println("contact is deleted");
