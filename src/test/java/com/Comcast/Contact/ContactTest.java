@@ -10,6 +10,7 @@ public class ContactTest {
 		System.out.println(value1);
 	}
 	//changes 1
+	//changws2
 	//SDET34
 	@Test(groups="regressionTest")
 	public void modifyContact() {
