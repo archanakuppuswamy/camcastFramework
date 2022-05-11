@@ -9,6 +9,7 @@ public class ContactTest {
 		String value1= System.getProperty("browser");
 		System.out.println(value1);
 	}
+	//changes 1
 	//SDET34
 	@Test(groups="regressionTest")
 	public void modifyContact() {
