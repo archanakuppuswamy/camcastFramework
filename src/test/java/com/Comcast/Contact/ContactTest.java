@@ -16,6 +16,7 @@ public class ContactTest {
 	}
 	//AUTOMATION ENGG 1
 	//Automation engg 3
+	//Automation engg 4
 	@Test(groups="regressionTest")
 	public void deleteContact() {
 		System.out.println("contact is deleted");
